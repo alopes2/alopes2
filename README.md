@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![profile count](https://komarev.com/ghpvc/?username=alopes2)&nbsp;
+[![GitHub Andre Lopes](https://img.shields.io/github/followers/alopes2?label=follow&style=social)](https://github.com/alopes2)&nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alopes2&hide=shaderlab,hlsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
