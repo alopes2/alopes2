@@ -7,6 +7,13 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://andrevitorlopes.medium.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevitorlopes/)&nbsp;
 
+- 🔭 I'm a full-stack engineer.
+- 🌱 I love to write about tech topics and to share my knowledge with the community.
+- 🎮 I'm also a casual gamer.
+- ⚡ My main focus languages are C#/.NET and JavaScript.
+
+Below you can find my most used languages on my account. 💡
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alopes2&hide=shaderlab,hlsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
