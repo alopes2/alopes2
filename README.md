@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevitorlopes/)&nbsp;
 
 - 🔭 I'm a full-stack engineer.
-- 🗺️ I'm originally from 🇧🇷 Brazil and now live in Germany.
+- 🗺️ I'm originally from Brazil and now live in Germany.
 - 🌱 I love to write about tech topics and to share my knowledge with the community.
 - 🎮 I'm also a casual gamer.
 - ⚡ My main focus languages are C#/.NET and JavaScript.
