@@ -2,9 +2,11 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=alopes2)&nbsp;
 [![GitHub Andre Lopes](https://img.shields.io/github/followers/alopes2?label=follow&style=social)](https://github.com/alopes2)&nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/AhnDreVitor?label=Twitter&style=social)](https://twitter.com/AhnDreVitor)&nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/AhnDreVitor?label=Twitter&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AhnDreVitor)&nbsp;
+![Twitter Follow](https://img.shields.io/twitter/follow/asdf?style=for-the-badge)
 
-[![Twitter Follow](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://andrevitorlopes.medium.com)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://andrevitorlopes.medium.com)&nbsp;
+[![Medium](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevitorlopes/)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alopes2&hide=shaderlab,hlsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
