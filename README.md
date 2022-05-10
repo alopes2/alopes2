@@ -2,10 +2,9 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=alopes2)&nbsp;
 
-[![GitHub Andre Lopes](https://img.shields.io/github/followers/alopes2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alopes2)&nbsp;
+[![GitHub Andre Lopes](https://img.shields.io/github/followers/alopes2?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white)](https://github.com/alopes2)&nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/AhnDreVitor?label=Twitter&style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white)](https://twitter.com/AhnDreVitor)&nbsp;
-![Twitter Follow](https://img.shields.io/twitter/follow/asdf?style=for-the-badge)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://andrevitorlopes.medium.com)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://andrevitorlopes.medium.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevitorlopes/)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alopes2&hide=shaderlab,hlsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
