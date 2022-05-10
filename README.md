@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi there](https://github.com/alopes2/alopes2/blob/main/header.png?raw=true)
 
 ![profile count](https://komarev.com/ghpvc/?username=alopes2)&nbsp;
 [![GitHub Andre Lopes](https://img.shields.io/github/followers/alopes2?label=follow&style=social)](https://github.com/alopes2)&nbsp;
